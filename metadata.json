@@ -1,0 +1,6 @@
+{
+  "name": "Resumo Inteligente - Gemini AI",
+  "description": "Aplicativo moderno para resumo inteligente de textos e transcrições de vídeos dividido em três partes com a API do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
